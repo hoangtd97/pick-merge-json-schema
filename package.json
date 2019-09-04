@@ -1,0 +1,26 @@
+{
+  "name": "pick-merge-json-schema",
+  "version": "1.0.0",
+  "description": "pick and merge json schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha *.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangtd97/pick-merge-json-schema.git"
+  },
+  "keywords": [
+    "json",
+    "schema"
+  ],
+  "author": "Tran Dinh Hoang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangtd97/pick-merge-json-schema/issues"
+  },
+  "homepage": "https://github.com/hoangtd97/pick-merge-json-schema#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
